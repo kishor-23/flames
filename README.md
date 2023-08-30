@@ -41,4 +41,4 @@ Play the Flames Game online: [Demo Link](https://kishor-23.github.io/flames/)
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/flames.git
+   git clone https://github.com/kishor-23/flames.git
